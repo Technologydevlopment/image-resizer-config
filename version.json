@@ -3,6 +3,6 @@
   "versionName": "1.0.4",
   "minVersionCode": 2000,
   "apkUrl": "https://www.uptodown.com/android/imageresizer",
-  "releaseNotes": "• Critical security hardening\n• New high-fidelity UI gradients\n• Performance optimizations",
+  "changelog": "• Current version is stable and optimized.",
   "isStoreRedirect": true
 }
